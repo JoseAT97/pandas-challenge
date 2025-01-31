@@ -7,3 +7,5 @@ The goal is to categorize these school based on their budget/ expenses, student 
 
 ## Conclusion
 This analysis reveals key insights to school performance, funding efficiency, and student success. Charter schools tend to outperform district schools academically emphasizing the impact of structual and funding differences. Schools with moderate per captia spending tend to achieve the best results indicating that efficient budget allocation is more critical than simply increasing total spending. These findings highlight the importance of strategic resource allocation, cirriculum imporvements, and efficient school management in driving student achievement. 
+
+## My code for this exercise is the PyCitySchools_Jose.ipynb file.
